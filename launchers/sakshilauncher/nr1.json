@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "sakshilauncher",
+  "displayName": "Sakshilauncher",
+  "description": "Describe me",
+  "rootNerdletId": "d229a407-0617-4756-943a-9d6378fe493d.home"
+}
