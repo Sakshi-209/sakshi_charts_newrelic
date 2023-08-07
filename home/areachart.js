@@ -20,7 +20,7 @@ export default class Areachart extends React.Component{
         // return <AreaChart data={[areachart1]} fullWidth />;
         return <AreaChart
         accountId={4043634}
-        query="SELECT average(host.cpuPercent) AS 'CPU used %' FROM Metric WHERE `entityGuid` = 'NDA0MjczMHxJTkZSQXxOQXwxNDgyOTIzNTg3ODAyOTE4NzU5' TIMESERIES auto" 
+        query="SELECT average(host.cpuPercent) AS 'CPU used %' FROM Metric WHERE `entityGuid` = 'NDA0MzYzNHxJTkZSQXxOQXwyNjE4NDAzOTQ4NDI0MDI0MTE2' TIMESERIES auto" 
         fullWidth
       />;
     }
